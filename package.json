@@ -44,7 +44,7 @@
     "codemirror": "^5.48.2",
     "fs-extra": "^7.0.1",
     "marked": "^0.7.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-pty": "^0.9.0-beta21",
     "nodegit": "^0.24.3",
     "npm": "^6.10.1",
